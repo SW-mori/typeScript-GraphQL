@@ -1,1 +1,1 @@
-# typeScript-GraphQL
+typeScriptのキャッチアップ
